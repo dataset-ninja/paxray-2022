@@ -13,7 +13,7 @@ from dataset_tools.templates import (
 ##################################
 # * Before uploading to instance #
 ##################################
-PROJECT_NAME: str = "PAXRAY++1"
+PROJECT_NAME: str = "PAXRAY++"
 PROJECT_NAME_FULL: str = "Projected Anatomy for X-Ray Dataset"
 HIDE_DATASET = True  # set False when 100% sure about repo quality
 
